@@ -2,7 +2,7 @@ import React from 'react'
 import {View, Image} from 'react-native'
 import {Button, Text} from 'native-base'
 import style from '../styles/Style.js'
-import onBoardingIllustration from '../assets/onboardingIllustration.png'
+import onBoardingIllustration from '../assets/onboardingIllustration.svg'
 
 export default function Onboarding() {
   return (
